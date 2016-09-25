@@ -1,10 +1,18 @@
 This is my first file.
 
+<<<<<<< HEAD
 
 This is to delete.
 
 
 ---- to check the branches, ---------
+=======
+
+
+
+
+
+>>>>>>> mergeconflict
 
 
 another branch created and some more edits to make.
